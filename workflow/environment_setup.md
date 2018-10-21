@@ -1,4 +1,4 @@
-# Set up and environment to work with Atom + Hydrogen + Conda Environments
+# Set up an environment to work with Atom + Hydrogen + Conda Environments
 After being a **Sublime Text** user for many years I decided to give **Atom** a go and I have been loving it so far.
 
 For DS work in particular, I have been using the **Hydrogen** package, which lets you execute pieces of code and see the output within the editor. This is similar to Jupyter notebooks, which I think are great for storytelling and data exploration. However, when I am getting closer to turning my code into a working library I prefer this (Atom + Hydrogen) combo.
